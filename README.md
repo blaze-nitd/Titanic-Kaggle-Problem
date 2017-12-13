@@ -13,6 +13,8 @@ In this challenge, we ask you to complete the analysis of what sorts of people w
 
 The link to the problem: [Titanic](https://www.kaggle.com/c/titanic/)  
 
+![](giphy.gif)  
+
 The codes run on Python3.  
 
 
