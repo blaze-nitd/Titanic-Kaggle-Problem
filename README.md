@@ -31,8 +31,9 @@ The codes run on Python3.
 4>Go to you local repository where this project has been saved through `cd </path>`. Now run the command:  
 `python <filename>.py`  
 
-Here if you choose <filename> to be decisionTreeImplementation two csv files result1.csv and result3.csv will be generated which you can submit to Kaggle and see your
+Here if you choose filename to be decisionTreeImplementation two csv files result1.csv and result3.csv will be generated which you can submit to Kaggle and see your
 accuracy. result1.csv will give upto 63% accuracy while result3.csv will give upto 73% accuracy.  
+And if you choose the filename to be randomforestImplementation.py, it will generate a csv file result4.csv which will give upto 72% of accuracy.
 
 
 
